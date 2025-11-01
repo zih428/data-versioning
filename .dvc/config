@@ -1,0 +1,4 @@
+[core]
+    remote = cheese_dataset
+['remote "cheese_dataset"']
+    url = gs://zih428-ac215-hw2/dvc_store
